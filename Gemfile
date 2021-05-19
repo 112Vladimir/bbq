@@ -8,7 +8,7 @@ gem 'devise'
 gem 'devise-i18n'
 gem 'russian'
 gem 'twitter-bootstrap-rails'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'uglifier', '>= 1.3.0'
 gem 'jbuilder', '~> 2.5'
 
